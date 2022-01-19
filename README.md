@@ -6,6 +6,12 @@ https://www.notion.so/Start-f3cd489689dd4911ba229cb7ccfd38d8
 <br> <br>
 
 
+### 모델링
+[https://www.notion.so/66c7fd9ea4a340ffb80575f3271e9e92](https://www.notion.so/66c7fd9ea4a340ffb80575f3271e9e92)
+
+<br><br>
+
+
 ### 참고자료
 
 [https://medium.com/spoontech/마이크로서비스-구조-msa-의-인증-및-인가-authorization-authentication-a595179ab88e](https://medium.com/spoontech/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0-msa-%EC%9D%98-%EC%9D%B8%EC%A6%9D-%EB%B0%8F-%EC%9D%B8%EA%B0%80-authorization-authentication-a595179ab88e)
