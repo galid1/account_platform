@@ -1,4 +1,4 @@
-package com.galid.account_platform.presentation.controller
+package com.galid.account_platform.account.presentation.controller
 
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
